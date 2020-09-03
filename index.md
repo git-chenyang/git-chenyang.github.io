@@ -162,7 +162,7 @@ __沈阳工程学院三等奖学金__ <span style="float:right"> *2014-2015*  </
 
 __沈阳工程学院优秀学生干部__  <span style="float:right"> *2014-2015* </span>  
  
-__沈阳工程学院英语词汇大赛二等奖 __  <span style="float:right"> *2014-2015* </span>
+__沈阳工程学院英语词汇大赛二等奖__  <span style="float:right"> *2014-2015* </span>
 
 
 
