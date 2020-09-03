@@ -115,7 +115,7 @@ Role: 职责：托福助教
 
 
 
-__辽宁华宇电气设备有限公司__ <span style="float:right"> 2017年暑假*</span>  
+__辽宁华宇电气设备有限公司__ <span style="float:right"> 2017年暑假</span>  
 职责：助理工程师  
 
 
@@ -132,7 +132,7 @@ __社会实践先进个人__   <span style="float:right"> 2015-2016  </span>
 
 __沈阳工程学院三等奖学金__ <span style="float:right"> 2014-2015  </span>  
 
-__沈阳工程学院优秀学生干部__  <span style="float:right"> 2014-2015*</span>  
+__沈阳工程学院优秀学生干部__  <span style="float:right"> 2014-2015</span>  
  
 __沈阳工程学院英语词汇大赛二等奖__  <span style="float:right"> 2014-2015</span>
 
