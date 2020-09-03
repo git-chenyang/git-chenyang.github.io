@@ -75,7 +75,7 @@ __基于CNN的在线人脸识别系统（python）__                            
  <br><br>
 __用斐波那契堆实现的标签计数器__                                    <span style="float:right">2020年3月</span>  
 描述：数据结构项目  
-此次设计提出并实现了一个完整功能的标签计数器，共搭建了两个数据结构： 1. 最大 Fibonacci 堆用于追踪标签频率， hash 表用来存储标签的关键词和数值。这个设计的代码分为三部分： hashtag_counter, Fib_NodeStructure 和Fib_Heap。经过测试，这个计数器完美的复现了 Fibonacci 堆的所有功能。（insert，delete，compare&combine，increase/decrease key, cascadecut等），整个代码均通过Java实现。
+此次设计提出并实现了一个完整功能的标签计数器，共搭建了两个数据结构： 最大 Fibonacci 堆用于追踪标签频率， hash 表用来存储标签的关键词和数值。这个设计的代码分为三部分： hashtag_counter, Fib_NodeStructure 和Fib_Heap。经过测试，这个计数器完美的复现了 Fibonacci 堆的所有功能。（insert，delete，compare&combine，increase/decrease key, cascadecut等），整个代码均通过Java实现。
 <br><br>	
 __粮仓自动检测系统__                         <span style="float:right"> 2017年8月</span>   
 描述：大学生创新创业比赛  
