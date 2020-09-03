@@ -1,16 +1,16 @@
 
-<span style="float:right">[<u>Click here to view my Chinese version of CV</u>](./CV-chinese.pdf)</span> 
+<span style="float:right">[<u>点击这里查看我的英文简历</u>](https://chenyang-ece.github.io/)</span> 
 <br><br><br><br>
-### ABOUT ME 
+### 关于我 
 ---
 
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>Name&nbsp;&nbsp;: &nbsp;&nbsp;Chen Yang （杨&nbsp;&nbsp;晨）</b></p>
-      <p><b>Phone&nbsp;&nbsp;: &nbsp;&nbsp;+1 (352) 745-5014</b></p>
-      <p><b>E-mail&nbsp;&nbsp;:&nbsp;cyang3@ufl.edu</b></p>
-      <p><b>Add&nbsp;&nbsp;: &nbsp;&nbsp;2800 SW Williston Rd, Gainesville, Florida</b></p>
+      <p><b>姓名&nbsp;&nbsp;: &nbsp;&nbsp;杨&nbsp;&nbsp;晨</b></p>
+      <p><b>电话&nbsp;&nbsp;: &nbsp;&nbsp;+1 (352) 745-5014</b></p>
+      <p><b>邮箱&nbsp;&nbsp;:&nbsp;&nbsp;cyang3@ufl.edu</b></p>
+      <p><b>地址&nbsp;&nbsp;: &nbsp;&nbsp;2800 SW Williston Rd, Gainesville, Florida</b></p>
     </td>
     <td width="25%">    
       <img src="/zhengjianzhao.jpg" width="100%">     
@@ -20,64 +20,67 @@
 
 
 <br>
-### EDUCATION  
+### 教育背景  
 ---
 
 
 
-__University of Florida__                  <span style="float:right">*Sept. 2019 – Present*</span>  
-M.S. in Electrical & Computer Engineering <span style="float:right">Cumulative GPA : 3.74 / 4.0 </span>  
-Herbert Wertheim College of Engineering  
+__佛罗里达大学__                  <span style="float:right">*2019年9月-至今*</span>  
+硕士 电气与计算机工程 <span style="float:right">绩点：3.74/4.0</span>  
+Hebert Wertheim工程学院  
 
  
-__Shenyang Institute of Engineering__                        <span style="float:right">*June 2018*</span>  
-B.E in Electronic Information Engineering <span style="float:right"> GPA : 3.03 / 4.0 </span>  
-School of Automation    
-Graduation Proj: Temperature and Humidity Detection Device  
+__沈阳工程学院__                        <span style="float:right">*2018年6月*</span>  
+学士 电子信息工程 <span style="float:right"> 绩点3.03/4.0 </span>  
+自动化学院    
+毕业设计题目：基于单片机技术的温湿度检测及控制  
   
 
 <br>
-### PUBLICATIONS & PATENTS
+### 出版物及专利  
 ---
 
 
 
-__Temperature Rapid Measurement Device based on SOPC Tech__  
-Chen Yang, Yan Bao and Hongyan Mao  
-《*Electronic Technology and Software Engineering, 2017* 》  
-ISSN: 2095-5650; 06/2017
+__基于SOPC技术的环境温度快速检测装置__  
+杨晨，包妍，毛红艳  
+《电子技术和软件工程》  
+ISSN: 2095-5650; 06/2017  
 
 
 
-__Multipath Temperature Measurement Device based on ARM__  
-Chen Yang, Yan Bao, Hongyan Mao, Jinming Zhang etc.  
-Patent No.: 2017205627206
+__基于ARM技术的一种新型多路温度检测装置__  
+杨晨，包妍，毛红艳，张津铭等 等  
+专利号：2017205627206  
 
 
 <br>
 
-### RESEARCH & PROJECT EXPERIENCE
+### 科研及项目经验  
 ---
 
 
 
-__Handwritten Digit Classification based on CNN__                        <span style="float:right">*(Scheduled) Nov. 2020*</span>  
-Description: Machine Learning Project  
-A handwriting number recognition system (using MNIST) will be implemented based on CNN method. This system must successfully detect and recognize the handwriting numbers (0~9) and transfer them to digital form. In this project, a neural network with two convolutional layers and two fully connected layers will be built to fully satisefy function requirements. The optimizer will be Adam.     
+__数字手写识别系统__                        <span style="float:right">*（计划于）2020年11月*</span>  
+描述：机器学习项目  
+此次设计将使用 MNIST 手写体数据作为训练集，设计并实施一种基于 CNN 的手写数字识别系统，此系统能够识别包含 0~9 的自然手写字体并转换为电子形式，此次设计将搭建一个包含两层卷积层和两层全连接层的卷积神经网络，优化器为Adam。 
+     
 <br>
 
 
-__Barcode Recognition System__                        <span style="float:right">*(Ongoing) Aug. 2020 – Present*</span>  
-Description: Image Processing Project  
-This design explores the decoding technology of EAN13 barcode recognition. Based on machine vision technology, a set of barcode online detection and recognition system is constructed. The system will consist of the following parts: barcode image positioning and collection, computer image preprocessing, barcode image Median filtering, denoising, barcode analysis and reading. After experiments, it is determined that the system can quickly and accurately read most EAN13 barcodes.    
+__条形码识别系统__                        <span style="float:right">*（正在进行）2020年8月–至今*</span>  
+描述：图像处理项目  
+该设计探索了EAN13条码识别的解码技术。基于机器视觉技术，构建了一套条形码在线检测与识别系统。该系统将由以下部分组成：条形码的定位和收集，图像预处理，条形码的中值滤波，去噪，条形码分析和读取。经过查阅资料和初期实验，确定该系统可以快速，准确地读取大多数EAN13条形码。  
+    
 <br>
 
 
 
 	
-__Face Recognition System based on CNN__                                       <span style="float:right">*Apr. 2020*</span>  
-Description: Pattern Recognition Project  
-This project develops an online face detection and recognition system based on convolutional neural networks. The system consists of the following parts: making a face data set, CNN neural network model training, face detection, and face recognition. After testing, it was confirmed that the system can quickly and accurately detect and recognize my face. The entire neural network includes eight layers, including three sets of convolutional layers and pooling layers, a fully connected layer and an output layer. The loss function is cross entropy and the optimizer is Adam. The codes of this project are written in Python. The libraries used in this project are OpenCV, DLIB and Tensorflow.    
+__基于CNN的在线人脸识别系统（python）__                                       <span style="float:right">*2020年4月*</span>  
+描述：模式识别项目  
+此次设计搭建了一个基于卷积神经网络的在线人脸检测识别系统，大致分为以下部分：制作人脸数据集， CNN 神经网络训练，人脸检测和人脸识别。经过测试，在调用电脑摄像头的前提下能够快速且精准的检测并识别我的人脸。整个神经网络包括 8 层，三对卷积层和池化层，一个全连接层，一个输出层。损失函数为交叉熵，优化器为 Adam，此次设计通过 Python 实现，调用的主要的库有： DLIB， OpenCV， Tensorflow。  
+    
  <br>
   
 
@@ -85,77 +88,81 @@ This project develops an online face detection and recognition system based on c
 
 
 
-__The Most Popular Hashtag Counter using Fibonacci Heap__                                               <span style="float:right">*Mar. 2020*</span>  
-Description: Data Structures Project  
-This project proposes a fully functional hashtag counter. In this project, I build the following two data structures: Max Fibonacci Heap to keep track of frequencies of hashtags, hash table to save the key and the value of the corresponding node in the Fib-heap. The codes of the project consist of three parts: hashtag_counter, Fib_NodeStructure and Fib_Heap. After testing, the system successfully reproduced all the functions of the Fibonacci Heap (insert, remove, compare&combine, increase&decrease key, cascading cut , etc.). This project is completed with Java.  
+__用斐波那契堆实现的标签计数器__                                    <span style="float:right">*2020年3月*</span>  
+描述：数据结构项目  
+此次设计提出并实现了一个完整功能的标签计数器，共搭建了两个数据结构： 1. 最大 Fibonacci 堆用于追踪标签频率， hash 表用来存储标签的关键词和数值。这个设计的代码分为三部分： hashtag_counter, Fib_NodeStructure 和Fib_Heap。经过测试，这个计数器完美的复现了 Fibonacci 堆的所有功能。（insert，delete，compare&combine，increase/decrease key, cascadecut等），整个代码均通过Java实现。  
+
 <br>
 
 
 	
-__Granary Storage Control System__                         <span style="float:right"> *Aug. 2017* </span>   
-Description: College Students Innovation & Entrepreneurship Competition  
-This project takes the DHT11 temperature and humidity sensor as the core, and the AT89c51 single-chip microcomputer designs a scale-down warehouse model for the processor. The model has some functions that the warehouse should have for normal detection: turn on the heater when the temperature is below the threshold, turn on the heat dissipation window and alarm when the temperature or humidity is too high, and implement temperature information display on LCD1602. Circuit diagram simulation and drawing are done by Multisim software. The outer shell’s design is accomplished by Solidworks.   
+__粮仓自动检测系统__                         <span style="float:right"> *2017年8月* </span>   
+描述：大学生创新创业比赛  
+这个项目以 DHT11 数字温湿度传感器为核心，和 AT89c51 单片机构建了一个按比例缩小的温室模型。 模型有以下功能：设定温湿度阈值，温度过低时开启加热，温度高的时候开启扇热窗，湿度在阈值范围外报警等。显示模块通过 LCD1602 实现，电路绘制及仿真通过 Multisim 实现。 
+  
 <br>
 
-__Intelligent Agriculture System based on Wind Power Tech__      <span style="float:right">*June 2017* </span>  
-Description: The Challenge Cup Sci. & Tech Competition   
-This goal of this competition is to design a reservation room for vegetables. In this project, three main section are successfully implemented: Energy supply part, detection and control part, deworming part. My responsibility is designing a device to monitor the humidity and temperature of the environment. In this process, I use AT89c51 SCM and DHT11 digital sensor to accomplish a detection and control system. Circuit diagram simulation and drawing are done by Multisim.  
+__基于风能技术的智能生态系统__      <span style="float:right">*2017年6月* </span>  
+描述：挑战杯科技作品竞赛  
+此次设计的目标是设计一个存储和培育蔬菜的温室。此次设计主要分三部分实现：能源供应部分，检测和控制部分和除虫部分。我的责任是设计一个装置用于检测室内环境的温度和湿度。在这个过程中，我用AT89c51单片机和DHT11数字传感器实现了检测和控制。电路图的绘制和仿真通过Multisim实现。  
+
 <br>
  
  
  
 	
-__Portable Ticket Machine at Railway Station__                                       <span style="float:right"> *Apr. 2016* </span>   
-Description: College Students Innovation & Entrepreneurship Competition  
-This design takes FX-2N-32MR PLC as the core, and designs a subway ticketing device that meets currency recognition, calculates fares based on the start and stop stations, and provides automatic refunds. In addition to the main functions, this design also uses computer configuration software to achieve simple control. In this design, my responsibility is to write the program of PLC by GX developer and design the outer shell by 3Ds Max.  
-<br>
-
-
-
-### PROFESSIONAL SKILLS 
----
-
-
-
-__Research Interests:__ Computer Vision, Image Processing & Analysis.  
-
-__English Level:__ TOEFL102 (R25, L28, S23, W26), GRE313 , CET6.    
-
-__Programming Languages:__ Python, Matlab, Java.  
-
-
-
-<br>
-### INTERNSHIPS 
----
-
-
-__Shenyang New Oriental Foreign Language School__  <span style="float:right"> *Winter Break 2018*  </span>    
-Role: Teaching Assistant for TOEFL
-
-
-
-
-__Liaoning Arima Electric Equipment Co.,Ltd__ <span style="float:right"> *Summer Break 2017* </span>  
-Role: Engineer Assistant
-
-
-<br>
-### HONORS 
----
-
-
-
-
-__The Ten-best Campus Culture Model, SIE__<span style="float:right"> *2015-2016*  </span>  
-
-__Advanced Individual of Social Practice Award__   <span style="float:right"> *2015-2016*  </span>  
-
-__The Third-class Scholarship, SIE__ <span style="float:right"> *2014-2015*  </span>  
-
-__Outstanding Student Leader, SIE__  <span style="float:right"> *2014-2015* </span>  
+__便携式车站出票机__                                       <span style="float:right"> *2016年4月* </span>   
+描述：大学生创新创业比赛  
+此次设计以 FX-2N-32MR 为核心设计了一个地铁出票装置，改装置能满足识别货币，确定出发和终点站，自动找零等功能。此外，还通过计算机组态软件实现了远程简单控制。在此次项目中，我的责任是用GX开发者平台对PLC进行编程并且用3Ds Max设计产品外壳。  
  
-__Second Prize of English Vocabulary Competition, SIE__  <span style="float:right"> *2014-2015* </span>
+<br>
+
+
+
+### 专业技能 
+---
+
+
+
+__研究兴趣:__ 计算机视觉，图像处理及分析  
+
+__英语水平:__ 托福102(R25, L28, S23, W26), GRE313 , 英语6级.    
+
+__编程语言:__ Python, Matlab, Java.  
+
+
+
+<br>
+### 实习经历 
+---
+
+
+__沈阳新东方外语学校__  <span style="float:right"> *2018年寒假*  </span>    
+Role: 职责：托福助教  
+
+
+
+
+__辽宁华宇电气设备有限公司__ <span style="float:right"> *2017年暑假* </span>  
+职责：助理工程师  
+
+
+<br>
+### 所获荣誉 
+---
+
+
+
+
+__沈阳工程学院十佳校园文化标兵__<span style="float:right"> *2015-2016*  </span>  
+
+__社会实践先进个人__   <span style="float:right"> *2015-2016*  </span>  
+
+__沈阳工程学院三等奖学金__ <span style="float:right"> *2014-2015*  </span>  
+
+__沈阳工程学院优秀学生干部__  <span style="float:right"> *2014-2015* </span>  
+ 
+__沈阳工程学院英语词汇大赛二等奖 __  <span style="float:right"> *2014-2015* </span>
 
 
 
